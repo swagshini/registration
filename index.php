@@ -60,7 +60,7 @@
 <body>
 
 <div class="container">
-    <img src="registration.png" alt="Registration"> <!-- Add your image file -->
+    <img src="sanrio.jpg" alt="Registration"> <!-- Add your image file -->
     <h2>Student Registration</h2>
     <form action="process.php" method="POST">
         <input type="text" name="name" placeholder="Full Name" required>
